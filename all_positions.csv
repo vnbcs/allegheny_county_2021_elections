@@ -1,0 +1,440 @@
+,number,position,term,ward,district,candidates,candidate_count
+0,1,tax collector,,,ALEPPO,"['Casey Cunningham', 'Clayton R. Steup']",2
+1,3,commissioner,4,,ALEPPO,"['Judith M. Haluka', 'Daniel M. Darragh', 'George Jones']",3
+2,1,commissioner,2,,ALEPPO,"['Judith M. Haluka', 'Daniel M. Darragh', 'George Jones']",3
+3,2,constable,,,ALEPPO,['none'],0
+4,1,mayor,,,ASPINWALL,"['David C. Brown', 'Joseph Noro']",2
+5,1,tax collector,,,ASPINWALL,['Dawn E. Eastley'],1
+6,4,member of council,,,ASPINWALL,"['Marcia L. Cooper', 'Lara Voytko', 'Jeff Harris', 'Mary Hancock', 'Sharon Donnick', 'James A. Bonant']",6
+7,1,constable,,,ASPINWALL,['none'],0
+8,1,mayor,,,AVALON,"['Thomas R Lloyd, Jr.']",1
+9,1,tax collector,,,AVALON,['none'],0
+14,1,mayor,,,BALDWIN BOROUGH,['David M. Depretis'],1
+15,1,tax collector,,,BALDWIN BOROUGH,['Gail Dobson Mikush'],1
+16,4,member of council,,,BALDWIN BOROUGH,"['E. John Egger', 'Erin Brown', 'Raymond G. Dee', 'Marianne Conley', 'Michael Stelmasczyk', 'Rebecca A. Conley']",6
+17,1,constable,,,BALDWIN BOROUGH,['James D. Hagan'],1
+18,1,tax collector,,,BALDWIN TOWNSHIP,['none'],0
+19,2,commissioner,,,BALDWIN TOWNSHIP,"['Eileen Frisoli', 'Robert F. Downey Jr.']",2
+20,2,constable,,,BALDWIN TOWNSHIP,['none'],0
+21,1,mayor,,,BELL ACRES,['Kenneth L. Alvania'],1
+22,1,tax collector,,,BELL ACRES,['Gregory Cooper'],1
+23,4,member of council,,,BELL ACRES,"['Janelle H. Aslam', 'Julie Klug DiCenzo', 'Finn Johnson', 'David Renfrew', 'Michelle Veeck', 'Charles Kulbacki', 'Brock A. Meanor']",7
+24,1,constable,,,BELL ACRES,['Robert A. Marek'],1
+25,1,mayor,,,BELLEVUE,"['Val Pennington', 'Mark C. Helbling', 'Joseph Alexander Scioscia Jr.']",3
+26,1,tax collector,,,BELLEVUE,['Joseph Nolan'],1
+27,1,auditor,6,,BELLEVUE,"['Linda A. Woshner', 'Linda A. Woshner']",2
+28,1,auditor,2,,BELLEVUE,"['Linda A. Woshner', 'Linda A. Woshner']",2
+32,1,mayor,,,BEN AVON,['Melanie Hughes-Holcomb'],1
+33,1,tax collector,,,BEN AVON,['none'],0
+34,4,member of council,,,BEN AVON,"['Tavia Washington', 'Jim Thornton', 'Jennifer A. Bett', 'Russell Kuehner']",4
+35,1,constable,,,BEN AVON,['Richard L. White'],1
+36,1,mayor,,,BEN AVON HEIGHTS,['Scott Dismukes'],1
+37,1,tax collector,,,BEN AVON HEIGHTS,['none'],0
+38,3,member of council,,,BEN AVON HEIGHTS,['Joseph M. Dawley'],1
+39,1,constable,,,BEN AVON HEIGHTS,['none'],0
+40,1,mayor,,,BETHEL PARK,['Jack Allen'],1
+43,1,mayor,,,BLAWNOX,['Anthony W. Gross'],1
+44,1,tax collector,,,BLAWNOX,['none'],0
+45,4,member of council,,,BLAWNOX,"['Randall R. Stoddard', 'Meghan Kennedy', 'Jessica A. Dayhoff', 'Deborah E. Laskey']",4
+46,1,constable,,,BLAWNOX,['none'],0
+47,1,mayor,,,BRACKENRIDGE,['Thomas L. Kish'],1
+48,1,tax collector,,,BRACKENRIDGE,['Melinda Cattley'],1
+51,1,mayor,,,BRADDOCK,['Delia  Lennon Winstead'],1
+55,1,mayor,,,BRADDOCK HILLS,"['John E. Brown, Jr.']",1
+56,1,tax collector,,,BRADDOCK HILLS,['Betty Ann Horvath'],1
+57,4,member of council,,,BRADDOCK HILLS,"['Anette Nance', 'Marguerite L. Bolton', 'Cassandra Schaffer']",3
+58,1,constable,,,BRADDOCK HILLS,['none'],0
+59,1,mayor,,,BRADDOCK WOODS,['none'],0
+60,4,member of council,,,BRADDOCK WOODS,['none'],0
+61,1,constable,,,BRADDOCK WOODS,['none'],0
+62,1,mayor,,,BRENTWOOD,"['Pat Carnevale', 'Dennis H. Troy']",2
+63,1,tax collector,,,BRENTWOOD,['Fay K. Boland'],1
+64,4,member of council,,,BRENTWOOD,"['Melissa Lenigan', 'Robert Pasquantonio', 'Stephen J. Thomas', 'Karen L. McWilliams', 'Nicole M. Novak', 'Eugene J. Werner, Jr.', 'Chris Fargotstein', 'A.J. Doyle']",8
+65,1,constable,,,BRENTWOOD,['Donald Makowski'],1
+66,1,mayor,,,BRIDGEVILLE,['Betty L. Copeland'],1
+67,1,tax collector,,,BRIDGEVILLE,['Anne Marie Parisi'],1
+68,4,member of council,,,BRIDGEVILLE,"['Michael A. Chiodo', 'William J. Henderson', 'Michael Neely', 'Justine Cimarolli', 'Virginia Bott Schneider', 'Robert B. Fryer', 'Joseph P. Verduci', 'Bruce Ghelarducci']",8
+69,1,constable,,,BRIDGEVILLE,['Walter L. Johns'],1
+70,1,mayor,,,CARNEGIE,['Stacie L. Riley'],1
+71,1,tax collector,,,CARNEGIE,['none'],0
+75,1,mayor,,,CASTLE SHANNON,['Donald J. Baumgarten'],1
+76,1,tax collector,,,CASTLE SHANNON,"[""Eileen L. O'malley""]",1
+77,4,member of council,,,CASTLE SHANNON,"['Daniel F. Swisher', 'Jason Maloney', 'Robert Astor', 'Vickie S. Bruce', 'Mark J. Heckmann', 'Janell Kletter Filson']",6
+78,1,constable,,,CASTLE SHANNON,['none'],0
+79,1,mayor,,,CHALFANT,['James S. Perry'],1
+80,1,tax collector,,,CHALFANT,['Carol A. Donahue'],1
+81,4,member of council,4,,CHALFANT,"['Chad Hoover', 'Evelyn L. Fullwood', 'Alia M. Pustorino', 'Derrick Royster']",4
+82,1,member of council,2,,CHALFANT,"['Chad Hoover', 'Evelyn L. Fullwood', 'Alia M. Pustorino', 'Derrick Royster']",4
+83,1,constable,,,CHALFANT,['none'],0
+84,1,mayor,,,CHESWICK,['Dan Carroll'],1
+85,1,tax collector,,,CHESWICK,['Louise Parkhill'],1
+86,4,member of council,,,CHESWICK,"['Frank Meledandri Jr.', 'Kathleen M. Gillard']",2
+87,1,constable,,,CHESWICK,['Richard K. Franks'],1
+88,1,mayor,,,CHURCHILL,['Paul G. Gamrat'],1
+89,1,tax collector,,,CHURCHILL,['Danielle Weaver'],1
+90,4,member of council,4,,CHURCHILL,"['Valerie Reinthaler', 'Diane Law', 'Brooke M. Burchette Williams', 'Debra Casini Klein', 'Matthew Castiglia']",5
+91,1,member of council,2,,CHURCHILL,"['Valerie Reinthaler', 'Diane Law', 'Brooke M. Burchette Williams', 'Debra Casini Klein', 'Matthew Castiglia']",5
+92,1,constable,,,CHURCHILL,['Daniel J. Paull'],1
+93,1,mayor,,,CLAIRTON,"['James A. Cerqua', 'Denise Johnson Clemmons', 'Richard L. Lattanzi']",3
+96,1,tax collector,,,COLLIER,['none'],0
+97,3,commissioner,,,COLLIER,"['Sadie Lee Restivo', 'Frank Trosky', 'Mary Ann Cupples Wisniowski', 'Kimberlee Duran-Woomer', 'Wayne M. Chiurazzi', 'Timothy W. Young', 'Stephanie Bonincontro']",7
+98,2,constable,,,COLLIER,['Daniel A. Styche'],1
+99,1,mayor,,,CORAOPOLIS,"['Michael Dixon', 'Robb J. Cardimen']",2
+100,1,tax collector,,,CORAOPOLIS,['David Falcione'],1
+103,1,mayor,,,CRAFTON,"['Fred Amendola', 'Mike Zuhl', 'Coletta A. Perry']",3
+104,1,tax collector,,,CRAFTON,['none'],0
+105,4,member of council,4,,CRAFTON,"['Erin Bollenbacher', 'Phillip G. Levasseur', 'Fred Amendola', 'Brad  Crouse', 'Colton L. Chandler', 'John S. Oliverio', 'Vincent L. Ridilla', 'Sean A. Tremba', 'Regina B. Patton', 'James L. Santucci', 'Justin Marks', 'Brad  Crouse', 'Kirsten R. Compitello']",13
+106,2,member of council,2,,CRAFTON,"['Erin Bollenbacher', 'Phillip G. Levasseur', 'Fred Amendola', 'Brad  Crouse', 'Colton L. Chandler', 'John S. Oliverio', 'Vincent L. Ridilla', 'Sean A. Tremba', 'Regina B. Patton', 'James L. Santucci', 'Justin Marks', 'Brad  Crouse', 'Kirsten R. Compitello']",13
+107,1,constable,,,CRAFTON,['James J. Bragano'],1
+108,1,tax collector,,,CRESCENT,['Morgan Withee'],1
+111,2,constable,,,CRESCENT,['Daniel Perciavalle'],1
+112,1,mayor,,,DORMONT,['Jason Walsh'],1
+113,1,tax collector,,,DORMONT,['none'],0
+114,4,member of council,,,DORMONT,"['Jennifer Mazzocco', 'Alvaro A. Varela, III', 'Ilene Leventhal Dubin']",3
+115,1,constable,,,DORMONT,['none'],0
+116,1,mayor,,,DRAVOSBURG,['Kevin R. McKelvey'],1
+117,1,tax collector,,,DRAVOSBURG,['Charles Gross'],1
+118,3,member of council,,,DRAVOSBURG,"['William Snodgrass Jr.', 'Jay E. McKelvey', 'John R. Palcsey']",3
+119,1,constable,,,DRAVOSBURG,['Paul Eagle'],1
+120,1,mayor,,,DUQUESNE,"['Elaine Washington', 'Timothy Caldwell', 'R. Scott Adams', 'Charles Morgan, IV', 'Nickole Nesby']",5
+121,1,controller,,,DUQUESNE,['none'],0
+122,2,member of council,,,DUQUESNE,"['Aaron R. Adams', 'Benjamin Church', 'Tamela Walker', 'Burt Comensky', 'Elaine Washington']",5
+124,1,tax collector,,,EAST DEER,['Bernadette Paulovich'],1
+125,1,auditor,,,EAST DEER,['Jennifer Savka'],1
+127,2,constable,,,EAST DEER,['none'],0
+128,1,mayor,,,EAST MCKEESPORT,['Robert P. Howard'],1
+129,1,tax collector,,,EAST MCKEESPORT,['Robert Ferrainolo'],1
+130,4,member of council,,,EAST MCKEESPORT,"['John Ekiert', 'Peter A. McGinty', 'Lynn Rosenbayger Brown', 'Linda Nolan']",4
+131,1,constable,,,EAST MCKEESPORT,['none'],0
+132,1,mayor,,,EAST PITTSBURGH,"['Earnest Frazier', 'Markus E. Adams']",2
+133,1,tax collector,,,EAST PITTSBURGH,['Patrick J. Geric'],1
+136,1,mayor,,,EDGEWOOD,"[""Ryan O'Donnell""]",1
+137,1,tax collector,,,EDGEWOOD,['none'],0
+138,4,member of council,4,,EDGEWOOD,"['Justin J. Petrolla', 'Brian Blasiole', 'Mike Frank Epitropoulos', 'John S. Wilson', 'Bhavmi Patel', 'Ronan Jones', 'Jennifer Lynne Gleba', 'Larry Conklin']",8
+139,1,member of council,2,,EDGEWOOD,"['Justin J. Petrolla', 'Brian Blasiole', 'Mike Frank Epitropoulos', 'John S. Wilson', 'Bhavmi Patel', 'Ronan Jones', 'Jennifer Lynne Gleba', 'Larry Conklin']",8
+140,1,constable,,,EDGEWOOD,['none'],0
+141,1,mayor,,,EDGEWORTH,['Gary L. Smith'],1
+142,1,tax collector,,,EDGEWORTH,['Chris Blazak'],1
+143,4,member of council,,,EDGEWORTH,"['Katherine Larsen', 'Joseph T. Hoepp', 'Daniel S. Wilson', 'Ivan T. Hofmann']",4
+144,1,constable,,,EDGEWORTH,['none'],0
+145,1,mayor,,,ELIZABETH BOROUGH,['Barry G. Boucher'],1
+146,1,tax collector,,,ELIZABETH BOROUGH,['Robin Schmidt'],1
+147,4,member of council,,,ELIZABETH BOROUGH,"['Chad Rager', 'Dana Cress']",2
+148,1,constable,,,ELIZABETH BOROUGH,['none'],0
+149,1,tax collector,,,ELIZABETH TOWNSHIP,['Mary E. Walos'],1
+151,2,constable,,,ELIZABETH TOWNSHIP,['Gary Corey'],1
+152,1,mayor,,,EMSWORTH,['none'],0
+153,1,tax collector,,,EMSWORTH,"['Laura A. West', 'Karen M. Getz', 'William A. Rumpf']",3
+154,4,member of council,,,EMSWORTH,"['Kevin Yurkovich', 'Daniel Lenz']",2
+155,1,constable,,,EMSWORTH,['Sam Kochefski'],1
+156,1,mayor,,,ETNA,['Thomas J. Rengers'],1
+157,1,tax collector,,,ETNA,['Karen Tomaszewski'],1
+161,1,tax collector,,,FAWN,['Margaret Hunkele'],1
+162,1,auditor,6,,FAWN,['none'],0
+163,2,supervisor,,,FAWN,"['Daniel R. Selfridge, Jr.', 'Paula J. Legge', 'David A. Montanari']",3
+164,1,constable,,,FAWN,['none'],0
+165,1,tax collector,,,FINDLAY,"['Barbara Coates', 'Deborah Lynn Faux']",2
+166,1,auditor,,,FINDLAY,['Kimberly Sue Henry'],1
+167,1,supervisor,,,FINDLAY,['Thomas J. Gallant'],1
+168,1,constable,,,FINDLAY,"['William Edward Peterson, Jr.']",1
+169,1,mayor,,,FOREST HILLS,['Frank Porko'],1
+170,1,tax collector,,,FOREST HILLS,['none'],0
+171,4,member of council,,,FOREST HILLS,"['Cecil Watkins', 'Markus Erbeldinger', 'William J. Gorol', 'Barbara Martin', 'Lawrence Sachs', 'Angelo Baiocchi', 'Nicole Schaffner']",7
+172,1,constable,,,FOREST HILLS,['Nataia Malloy'],1
+173,1,tax collector,,,FORWARD,['William Firczak'],1
+174,1,auditor,6,,FORWARD,['none'],0
+175,1,auditor,4,,FORWARD,['none'],0
+176,1,auditor,2,,FORWARD,['none'],0
+177,1,supervisor,,,FORWARD,"['Thomas DeRosa', 'Jayme Stoffer']",2
+178,1,constable,,,FORWARD,['none'],0
+179,1,mayor,,,FOX CHAPEL,"['Walter A. Scott, III']",1
+180,1,tax collector,,,FOX CHAPEL,['none'],0
+181,4,member of council,,,FOX CHAPEL,"['Sarah Hanna', 'Jessica Demoise', 'Michael D. Pohl', 'Andrew C. Bennett', 'Harrison S. Lauer', 'Bradley D. Harrison', 'Frederick C. Leech']",7
+182,1,constable,,,FOX CHAPEL,['Nelson L. Person'],1
+183,1,mayor,,,FRANKLIN PARK,"['Sumana Naik', ""Dennis E. O'Keefe""]",2
+184,1,tax collector,,,FRANKLIN PARK,['Kristin L. Losco'],1
+187,1,tax collector,,,FRAZER,['Debra L. Bajack'],1
+188,1,auditor,,,FRAZER,['David E. Elkin'],1
+189,1,supervisor,,,FRAZER,['Willliam J. Creevey'],1
+190,1,constable,,,FRAZER,['none'],0
+191,1,mayor,,,GLASSPORT,['none'],0
+192,1,tax collector,,,GLASSPORT,['Jennifer Bell'],1
+193,3,member of council,,,GLASSPORT,"['Keith S. DiMarco', 'Elaina Skiba', 'Paul Trunzo', 'Anthony Colecchi']",4
+194,1,constable,,,GLASSPORT,['none'],0
+195,1,mayor,,,GLEN OSBORNE,['Barbara M. Carrier'],1
+196,1,tax collector,,,GLEN OSBORNE,['none'],0
+197,4,member of council,,,GLEN OSBORNE,"['John Orndorff', 'Mary Scalerico']",2
+198,1,constable,,,GLEN OSBORNE,['none'],0
+199,1,mayor,,,GLENFIELD,['none'],0
+200,1,tax collector,,,GLENFIELD,['none'],0
+201,1,auditor,6,,GLENFIELD,['none'],0
+202,1,auditor,4,,GLENFIELD,['none'],0
+203,1,auditor,2,,GLENFIELD,['none'],0
+204,4,member of council,,,GLENFIELD,['none'],0
+205,1,constable,,,GLENFIELD,['none'],0
+206,1,mayor,,,GREEN TREE,['Edward A. Scheneck'],1
+207,4,member of council,,,GREEN TREE,"['James J. Turocy', 'Craig A. Romanovich', 'Shannon Barron', ""Lindsey Dawn O'Donnell"", 'Jessica Swiech', 'David L. Rea', 'David Lorenzini', 'Katrina Ann Harmel']",8
+208,1,constable,,,GREEN TREE,['none'],0
+209,3,member of council,4,,HAMPTON,"['Julie Fritsch', 'Carolynn R. Johnson', 'Bethany H. Blackburn', 'Rebecca Craig', 'Michael W. Bowman', 'Jay R. Hagerman', 'Alexander M. Spiess', 'Richard O. Kernick', 'Alfred Midgley IV']",9
+210,1,member of council,2,,HAMPTON,"['Julie Fritsch', 'Carolynn R. Johnson', 'Bethany H. Blackburn', 'Rebecca Craig', 'Michael W. Bowman', 'Jay R. Hagerman', 'Alexander M. Spiess', 'Richard O. Kernick', 'Alfred Midgley IV']",9
+211,1,constable,,,HAMPTON,['none'],0
+212,1,tax collector,,,HARMAR,['James R. DiPalma'],1
+213,1,auditor,6,,HARMAR,['none'],0
+214,1,auditor,4,,HARMAR,['none'],0
+215,1,auditor,2,,HARMAR,['none'],0
+216,2,supervisor,,,HARMAR,"['Harry C. Lenhart', 'Samuel J. Boak', 'Dani Jameson', 'Linda C. Exler', 'Robert W. Seibert Jr', 'Rick Kleiger', 'Frank Hatterer', 'Neal Farkas']",8
+217,1,constable,,,HARMAR,['Eric McCall'],1
+218,1,tax collector,,,HARRISON,['Michael D. McKechnie'],1
+219,2,member of council,"2,4",,HARRISON,['none'],0
+220,2,constable,,,HARRISON,['none'],0
+221,1,mayor,,,HAYSVILLE,['none'],0
+222,1,tax collector,,,HAYSVILLE,['none'],0
+223,4,member of council,4,,HAYSVILLE,['none'],0
+224,1,member of council,2,,HAYSVILLE,['none'],0
+225,1,constable,,,HAYSVILLE,['none'],0
+226,1,mayor,,,HEIDELBERG,['Kenneth A. Lasota'],1
+227,1,tax collector,,,HEIDELBERG,['none'],0
+228,3,member of council,,,HEIDELBERG,"['Sharon Wicobroad', 'Richard A. Pattinato', 'Dorothy McCartney', 'Charles L. Jones', 'Duda John']",5
+229,1,constable,,,HEIDELBERG,['none'],0
+230,1,mayor,,,HOMESTEAD,"['John M. Burwell', 'Betty Esper']",2
+231,1,tax collector,,,HOMESTEAD,['Alice Paylor-Dais'],1
+236,1,tax collector,,,INDIANA,['Julie Leventry'],1
+237,1,auditor,6,,INDIANA,['none'],0
+238,1,auditor,4,,INDIANA,['none'],0
+239,1,auditor,2,,INDIANA,['none'],0
+241,1,constable,,,INDIANA,['David C. Allison'],1
+242,1,mayor,,,INGRAM,['Sharon Stetz'],1
+243,1,tax collector,,,INGRAM,['none'],0
+244,4,member of council,,,INGRAM,"['Greg Butler', 'Karen L. Dixon', 'Susan Radzanowski', 'Richard Nucci']",4
+245,1,constable,,,INGRAM,['none'],0
+246,1,mayor,,,JEFFERSON HILLS,"['Jan Cmar', 'Carrie Nuss-McCaffrey']",2
+247,1,tax collector,,,JEFFERSON HILLS,"['William S. Theiss Jr.', 'Josephine Lipnicky']",2
+248,4,member of council,,,JEFFERSON HILLS,"['Brian W. Militzer', 'Vickie L. Ielase', 'Peter D. Doel', 'John M. Wallace', 'Claire Metzinger Germello', 'David T. Montgomery', 'Christina Weir-Ripley', 'David T. Montgomery', 'Keith Polick', 'Hilary Kingsley-Budd', 'Lori Sekulich Bartrug', 'Melissa Lynne Girman Steffey']",12
+249,1,constable,,,JEFFERSON HILLS,['Dale Withers'],1
+250,1,tax collector,,,KENNEDY,['Melvin Weinstein'],1
+251,3,commissioner,4,,KENNEDY,"['Donald Morrow', 'Susan Butya', 'Gary Vituccio', 'Diane Schmitt', 'Frederick Kauffmann']",5
+252,1,commissioner,2,,KENNEDY,"['Donald Morrow', 'Susan Butya', 'Gary Vituccio', 'Diane Schmitt', 'Frederick Kauffmann']",5
+253,2,constable,,,KENNEDY,"['John Buckley, III']",1
+254,1,tax collector,,,KILBUCK,['none'],0
+255,1,auditor,,,KILBUCK,['none'],0
+256,1,supervisor,,,KILBUCK,['Thomas R. Tomaro'],1
+257,1,constable,,,KILBUCK,['none'],0
+258,1,tax collector,,,LEET,['Nicole Sigmund'],1
+259,2,commissioner,,,LEET,"['Donna Adipietro', 'William Wanto, Jr.', 'Daniel M. Peluso', 'John Stephansky', 'Stephanie Turner', 'Jeff Besong', 'Rody Nash']",7
+260,2,constable,,,LEET,['none'],0
+261,1,mayor,,,LEETSDALE,"['Sandra Ford', 'Peter A. Poninsky']",2
+262,1,tax collector,,,LEETSDALE,"['Carol Poninsky', 'Thomas Belcastro']",2
+263,4,member of council,,,LEETSDALE,"['Thomas J. Michael', 'Patricia Lee', 'Beth Carroll', 'Elizabeth Surmacz', 'Benjimen J. Frederick', 'Osman K. Awad', 'Maria  Napolitano']",7
+264,1,constable,,,LEETSDALE,"['Earnest E. K. Logan', 'Zach Turner']",2
+265,1,mayor,,,LIBERTY,['S. Larry Sikorski'],1
+266,1,tax collector,,,LIBERTY,['Shelly Aquilante'],1
+267,4,member of council,,,LIBERTY,"['Luke Riley', 'Timothy W. Sloss', 'Michael Matlos', 'Elizabeth Lape']",4
+268,1,constable,,,LIBERTY,"['Brandon Nolder', 'Brandon Nolder']",2
+269,1,mayor,,,LINCOLN,['James Joseph Beisler'],1
+270,1,tax collector,,,LINCOLN,['Sharon Lynn Jageman'],1
+271,2,member of council,,,LINCOLN,"['Mark E. Betzner', 'Tommy W. Firda', 'Jeffrey Bertok']",3
+272,1,constable,,,LINCOLN,['Jozef A. Turcan'],1
+273,1,tax collector,,,MARSHALL,['Charles Carey'],1
+274,1,auditor,,,MARSHALL,['Earl V. Bragunier'],1
+275,2,supervisor,,,MARSHALL,"['Thomas J. Madigan', 'Robert Edwards']",2
+276,1,constable,,,MARSHALL,['Earl V. Bragunier'],1
+278,2,constable,,,MCCANDLESS,['Nathan Wolfe'],1
+279,1,controller,,,MCKEESPORT,['Ryan Sturgess'],1
+280,3,member of council,,,MCKEESPORT,"['Brian Evans', 'Jill Brewster-Lape', 'Jim Barry']",3
+282,1,mayor,,,MCKEES ROCKS,"['David Flick', 'John R. Muhr', 'Jackie Page', 'Tristan David Yoder']",4
+283,1,tax collector,,,MCKEES ROCKS,"['Maribeth L. Taylor', 'Tracey Pedersen']",2
+284,1,controller,,,MCKEES ROCKS,['William C. Beck'],1
+288,1,mayor,,,MILLVALE,['Brian Spoales'],1
+289,1,tax collector,,,MILLVALE,['J. Scott Davis'],1
+290,3,member of council,,,MILLVALE,"['James A. Machajewski, Jr.', 'Albert Atkinson', 'John W. Varley']",3
+291,1,constable,,,MILLVALE,['Frank Albert'],1
+292,1,mayor,,,MONROEVILLE,['Nicholas J. Gresock'],1
+293,1,tax collector,,,MONROEVILLE,['Patrick J. Fulkerson'],1
+296,1,tax collector,4,,MOON,"['John J. Wink', 'Shannon Treonze']",2
+297,1,auditor,,,MOON,['Michael A. Dandrea'],1
+298,1,supervisor,6,,MOON,"['John G. Williams', 'Anthony N. Coleman', 'Kathleen Madonna- Emmerling', 'David Bachman', 'Allan T. Bross']",5
+299,1,supervisor,2,,MOON,"['John G. Williams', 'Anthony N. Coleman', 'Kathleen Madonna- Emmerling', 'David Bachman', 'Allan T. Bross']",5
+300,1,constable,,,MOON,['Perry Miller'],1
+301,1,treasurer,,,MOUNT LEBANON,['Joseph Senko'],1
+302,2,commissioner,"2,4",,MOUNT LEBANON,"['Steve Silverman', 'Craig  Grella', 'Hillary Lohr']",3
+303,2,constable,,,MOUNT LEBANON,['Dimitro C. Kulik'],1
+304,1,mayor,,,MOUNT OLIVER,"['Joanna Neeley Taylor', 'Frank C. Bernardini']",2
+305,1,tax collector,,,MOUNT OLIVER,['Tina M. Carcia'],1
+306,4,member of council,,,MOUNT OLIVER,"['Nicholas Viglione', 'Francis E. Heckmann', 'Brandon Taylor', 'Nicholas Thomas Drop', 'Lisa M. Pietrusza', 'Paul J. Doyle']",6
+307,1,constable,,,MOUNT OLIVER,['A.P.  Malloy'],1
+308,1,mayor,,,MUNHALL,['Rob Falce'],1
+309,1,tax collector,,,MUNHALL,['Donna J. Mercuri'],1
+310,4,member of council,,,MUNHALL,"['Maureen Fry', 'David  Younkins, Sr.', 'Scott D. Stevens', 'James Petruzzi', 'Richard Brennan', 'Mark  Morrison', 'Richard J. Votedian', 'Harvey Inglis']",8
+311,1,constable,,,MUNHALL,['John Craycraft'],1
+312,1,tax collector,,,NEVILLE,['none'],0
+315,2,constable,,,NEVILLE,['James K. Claytor'],1
+316,1,mayor,,,NORTH BRADDOCK,"['Cletus Lee', 'Albert Senic, Jr.']",2
+317,1,tax collector,,,NORTH BRADDOCK,['Kathleen M. Evanchec'],1
+321,1,tax collector,,,NORTH FAYETTE,['Thomas J. Falcioni'],1
+322,1,auditor,,,NORTH FAYETTE,['none'],0
+323,1,supervisor,,,NORTH FAYETTE,"['Jim Morosetti', 'Jeffrey M. Kammerdeiner']",2
+324,1,constable,,,NORTH FAYETTE,['William B. Osterritter'],1
+325,1,tax collector,,,NORTH VERSAILLES,['Mary Ann Fetsick'],1
+327,2,constable,,,NORTH VERSAILLES,"['Thomas R. Leicht, Jr.']",1
+328,1,mayor,,,OAKDALE,['none'],0
+329,1,tax collector,,,OAKDALE,['Dawn Ostrander'],1
+330,2,member of council,,,OAKDALE,"['William J. Hartman, Jr.', 'Albert Pifer']",2
+331,1,constable,,,OAKDALE,['Lyle Grover'],1
+332,1,mayor,,,OAKMONT,"['Sophia Facaros', 'Mark Springer']",2
+333,1,tax collector,,,OAKMONT,['none'],0
+334,4,member of council,,,OAKMONT,"['Tracey Holst', 'Amanda J. Pagnotta', 'Hilary Felix', 'Jamie Leonardi', 'Anne Bauer', 'Kimberly Butler']",6
+335,1,constable,,,OAKMONT,['none'],0
+336,1,treasurer,,,OHARA,['none'],0
+337,1,auditor,,,OHARA,['none'],0
+339,2,constable,,,OHARA,['Francis Peitz'],1
+340,1,tax collector,,,OHIO,['Kristen A. Pontello'],1
+341,1,supervisor,,,OHIO,['Robert H. Huffmyer'],1
+342,1,constable,,,OHIO,['none'],0
+343,2,member of council,,,PENN HILLS,"['Joanne M. Fascio', 'John Petrucci', 'Catherine Sapp']",3
+344,2,constable,,,PENN HILLS,"['Scott Buzzard', 'Louis J. Leon']",2
+345,1,mayor,,,PENNSBURY VILLAGE,['Lucy A. Harper'],1
+346,1,tax collector,,,PENNSBURY VILLAGE,['Patricia E. Notaro'],1
+347,4,member of council,4,,PENNSBURY VILLAGE,"['Carolyn D. Waldner', 'Marita L. Haubrick', 'Maria Uzair Shamsi', 'Nicholas Honchar', 'Brenda L. George']",5
+348,1,member of council,2,,PENNSBURY VILLAGE,"['Carolyn D. Waldner', 'Marita L. Haubrick', 'Maria Uzair Shamsi', 'Nicholas Honchar', 'Brenda L. George']",5
+349,1,constable,,,PENNSBURY VILLAGE,['none'],0
+350,2,supervisor,,,PINE,"['Albert Villanueva', 'Audrey Mackie']",2
+351,1,constable,,,PINE,['none'],0
+352,1,mayor,,,PITCAIRN,"['Mika Petrosky', 'Margaret Stevick']",2
+353,1,tax collector,,,PITCAIRN,['Sally DiRobbio'],1
+354,4,member of council,,,PITCAIRN,"['Megan Law', 'Ashley Campbell', 'Heather Luimes', 'Thomas Dick', 'George Toth']",5
+355,1,constable,,,PITCAIRN,['Todd David Cain'],1
+356,1,mayor,,,PLEASANT HILLS,['William Donald Trimbath'],1
+357,1,tax collector,,,PLEASANT HILLS,['Linda J. Fancsali'],1
+358,4,member of council,,,PLEASANT HILLS,"['Marian L. Haley', 'Justin Horvat', 'Cheryl Lee S. Freedman', 'Eileen Solinas', 'Robert D. Karcher', 'Jarrett Niecgorski']",6
+359,1,constable,,,PLEASANT HILLS,['Derek Schmotzer'],1
+360,1,mayor,,,PLUM,"['Shawn Marcellino', 'Harry R. Schlegel']",2
+361,1,tax collector,,,PLUM,['Lisa A. Lagnese'],1
+362,4,member of council,,,PLUM,"['David Odom', 'Jennifer Lynn Pusateri', 'Justin Michael Tuskan', 'Michael Creighton', 'David Seitz', 'Michael J. Dell', 'Steven Robert Taylor', 'Paul Dern', 'Mike Doyle']",9
+363,1,constable,,,PLUM,"['Albert Cafazzo', 'Nathan Polacek']",2
+364,1,mayor,,,PORT VUE,['Brien A. Hranics'],1
+365,1,tax collector,,,PORT VUE,['Kenneth J. Hresko'],1
+366,4,member of council,4,,PORT VUE,"['Doug Junecko', 'Robert Betters', 'Mark D. Tortorice', 'Deborah Thomas', 'Kenneth J. Hresko']",5
+367,1,member of council,2,,PORT VUE,"['Doug Junecko', 'Robert Betters', 'Mark D. Tortorice', 'Deborah Thomas', 'Kenneth J. Hresko']",5
+368,1,constable,,,PORT VUE,"['John J. Borkowski, Jr.']",1
+369,1,mayor,,,RANKIN,['Joelisa L. McDonald'],1
+370,1,tax collector,,,RANKIN,['Sheila L. Miles'],1
+374,1,tax collector,,,RESERVE,['none'],0
+376,2,constable,,,RESERVE,"['Paul A. Yuretich', 'William Crowell, Sr.']",2
+378,1,constable,,,RICHLAND,['none'],0
+379,1,tax collector,,,ROBINSON,['Michael Pendel'],1
+380,3,commissioner,,,ROBINSON,"['Ronald J. Shiwarski', 'Kenneth Kisow', 'James J. Barefoot', 'Maureen Malick', 'Onorato Bucci', 'John F. Richnavsky', 'Mindy Houser', 'Roberta A. Corpuz']",8
+381,2,constable,,,ROBINSON,['Craig M. Cannella'],1
+382,1,tax collector,,,ROSS,['Matthew Mager'],1
+384,2,constable,,,ROSS,"['Leonard Anderson', 'Douglas Renzelman']",2
+385,1,mayor,,,ROSSLYN FARMS,['Isabel Ford'],1
+386,1,tax collector,,,ROSSLYN FARMS,['none'],0
+387,4,member of council,,,ROSSLYN FARMS,"['Leanora Griffin', 'Jonathan Glance', 'Barbara Becker', 'David Robb']",4
+388,1,constable,,,ROSSLYN FARMS,['Charles Arcoletti'],1
+389,1,tax collector,,,SCOTT,['Lisa Riley'],1
+392,2,constable,,,SCOTT,"['Joe Riley', 'Bradley Skees']",2
+393,1,mayor,,,SEWICKLEY,['George Shandon'],1
+394,1,tax collector,,,SEWICKLEY,"['Joshua Munn', 'Larry Rice']",2
+399,1,mayor,,,SEWICKLEY HEIGHTS,['John Oliver'],1
+400,1,tax collector,,,SEWICKLEY HEIGHTS,['none'],0
+401,4,member of council,,,SEWICKLEY HEIGHTS,"['Craig Kinney', 'Phil Hundley', 'Tom Pangburn', 'Carey Sirianni']",4
+402,1,constable,,,SEWICKLEY HEIGHTS,['none'],0
+403,1,mayor,,,SEWICKLEY HILLS,['none'],0
+404,1,tax collector,,,SEWICKLEY HILLS,['Douglas Nolfi'],1
+405,3,member of council,,,SEWICKLEY HILLS,['none'],0
+406,1,constable,,,SEWICKLEY HILLS,['none'],0
+407,1,tax collector,,,SHALER,['Erin C. Bartkins'],1
+409,2,constable,,,SHALER,"['Edward Stankovic', 'Gary John Cutenese']",2
+410,1,mayor,,,SHARPSBURG,"['Brittany Reno', 'Joseph Simbari']",2
+411,1,tax collector,,,SHARPSBURG,['Patricia Hyatt'],1
+412,4,member of council,4,,SHARPSBURG,"['Taylor Joseph Pecze', 'Kayla Portis', 'Carrie Tongarm', 'Brian R. Kozera', 'Karen Pilarski-Pastor', 'Bradley R. Truman', 'Kenneth Robert Aquiline', 'Sarah Ishman']",8
+413,1,member of council,2,,SHARPSBURG,"['Taylor Joseph Pecze', 'Kayla Portis', 'Carrie Tongarm', 'Brian R. Kozera', 'Karen Pilarski-Pastor', 'Bradley R. Truman', 'Kenneth Robert Aquiline', 'Sarah Ishman']",8
+414,1,constable,,,SHARPSBURG,['none'],0
+415,1,tax collector,,,SOUTH FAYETTE,['Kevin P. Biber'],1
+416,1,commissioner,,,SOUTH FAYETTE,['Rabecca M. Sray'],1
+417,2,constable,,,SOUTH FAYETTE,"['Mark A. Lyons', 'Robert D. Craig']",2
+418,1,tax collector,,,SOUTH PARK,"['Lawrence Arrigo', 'Derek Parker']",2
+419,1,auditor,,,SOUTH PARK,['none'],0
+420,1,supervisor,,,SOUTH PARK,"['Edward Snee', 'Lawrence D. Vogel', 'George Karpacs', 'Diana Ifft-Cecotti']",4
+421,1,constable,,,SOUTH PARK,['Edmund J. Guzek'],1
+422,1,tax collector,,,SOUTH VERSAILLES,['Sherry Kahler'],1
+423,3,commissioner,,,SOUTH VERSAILLES,['none'],0
+424,2,constable,,,SOUTH VERSAILLES,['none'],0
+425,1,mayor,,,SPRINGDALE BOROUGH,['none'],0
+426,1,tax collector,,,SPRINGDALE BOROUGH,['Deborah Sigmund'],1
+427,4,member of council,,,SPRINGDALE BOROUGH,"['Michael Ziencik', 'Eileen  Miller', 'Brittni Lee Bair', 'Jason Overly']",4
+428,1,constable,,,SPRINGDALE BOROUGH,['none'],0
+429,1,tax collector,,,SPRINGDALE TOWNSHIP,"['Kathryn M. Winwood', 'Kathryn M. Winwood']",2
+430,2,commissioner,,,SPRINGDALE TOWNSHIP,"['Shirley Redman', 'Tim Sweet', 'Tim Basilone']",3
+431,2,constable,,,SPRINGDALE TOWNSHIP,['none'],0
+432,1,tax collector,,,STOWE,['none'],0
+433,2,commissioner,,,STOWE,"['Darrell K. Chestnut, III', 'Louis F. Robin Parrilla']",2
+434,2,constable,,,STOWE,"['Patrick S. Jennings, Sr.']",1
+435,1,mayor,,,SWISSVALE,"['Frank Berry', 'Deneen Swartzwelder']",2
+436,1,tax collector,,,SWISSVALE,['Thomas Barr'],1
+437,4,member of council,,,SWISSVALE,"['Frank Berry', 'Shawn Alfonso-Wells', 'Angela D. Stribling', 'John Wilson', 'Martin F. Busch', 'Jeremy Brake-Zacherl', 'Fred Lee Quinn III', 'Joshua Miser', 'Abigail Salisbury']",9
+438,1,constable,,,SWISSVALE,['Francis Keyes'],1
+439,1,mayor,,,TARENTUM,"['Carrie Fox', 'Robert Lang', 'Eric Carter', 'Stephanie Adams']",4
+440,1,tax collector,,,TARENTUM,['Karen Marietti'],1
+444,1,mayor,,,THORNBURG,['Thomas M. Mackin Sr.'],1
+445,1,tax collector,,,THORNBURG,['none'],0
+446,4,member of council,,,THORNBURG,"['Anthony H. Szmul', 'Lauren A. Melfa Catanzarite', 'Sigo Falk', 'Scott Quinn', 'Kimberly A. DePaolo', 'Vincent Coppola']",6
+447,1,constable,,,THORNBURG,['none'],0
+448,1,mayor,,,TURTLE CREEK,"['Adam Robert Forgie', 'John Parker']",2
+449,1,tax collector,,,TURTLE CREEK,['Richard T. Smith'],1
+455,2,constable,,,UPPER ST CLAIR,['none'],0
+456,1,mayor,,,VERONA,['David P. Ricupero'],1
+457,1,tax collector,,,VERONA,['none'],0
+458,4,member of council,,,VERONA,"['Raymon S. Suchevich', 'Vincent J. Flotta', 'Rhoda G. Worf', 'Nancy A. Carpenter', 'Patricia Lynn Hredzak-Showalter']",5
+459,1,constable,,,VERONA,['none'],0
+460,1,mayor,,,VERSAILLES,['James J. Fleckenstein'],1
+461,1,tax collector,,,VERSAILLES,['Melanie D. Beresford'],1
+462,4,member of council,4,,VERSAILLES,"['Lisa Fleckenstein', 'Mike Kisan', 'Linda R. Sheedy', 'Christine M. Van Tol']",4
+463,2,member of council,2,,VERSAILLES,"['Lisa Fleckenstein', 'Mike Kisan', 'Linda R. Sheedy', 'Christine M. Van Tol']",4
+464,1,constable,,,VERSAILLES,['none'],0
+465,1,mayor,,,WALL,['none'],0
+466,1,tax collector,,,WALL,['none'],0
+467,3,member of council,,,WALL,['none'],0
+468,1,constable,,,WALL,['Dennis M. Dopirak'],1
+469,1,tax collector,,,WEST DEER,['Dorothy J. Bonovitz'],1
+470,1,auditor,6,,WEST DEER,['none'],0
+471,1,auditor,4,,WEST DEER,['none'],0
+472,1,auditor,2,,WEST DEER,['none'],0
+475,1,constable,,,WEST DEER,['Albert M. Dancisin'],1
+476,1,mayor,,,WEST ELIZABETH,"['Keved White', 'Cathy Welty']",2
+477,1,tax collector,,,WEST ELIZABETH,['Robert N. Welty'],1
+478,1,auditor,,,WEST ELIZABETH,['none'],0
+479,4,member of council,,,WEST ELIZABETH,"['Lisa Morris', 'Louise M. Biddle', 'Raymond P. Dodds, Jr.']",3
+480,1,constable,,,WEST ELIZABETH,['none'],0
+481,1,mayor,,,WEST HOMESTEAD,"['John J. Dindak', 'John J. Karafa, Jr.']",2
+482,1,tax collector,,,WEST HOMESTEAD,['Lisa Guckes'],1
+483,4,member of council,4,,WEST HOMESTEAD,"['Ashley Nicole Cain', 'Paul Ciccone', 'Barb Ferson', 'David A. Harhai', 'William E. McLaughlin', 'Thomas Edward Joyce', 'Roseann M.  Scolieri']",7
+484,1,member of council,2,,WEST HOMESTEAD,"['Ashley Nicole Cain', 'Paul Ciccone', 'Barb Ferson', 'David A. Harhai', 'William E. McLaughlin', 'Thomas Edward Joyce', 'Roseann M.  Scolieri']",7
+485,1,constable,,,WEST HOMESTEAD,['none'],0
+486,1,mayor,,,WEST MIFFLIN,"['Raymond Rost', 'Daniel Davis', 'Chris Kelly']",3
+487,1,tax collector,,,WEST MIFFLIN,['Jonathan Hess'],1
+488,4,member of council,,,WEST MIFFLIN,"['Daniel Davis', 'Edward Kellar', 'Karen Santoro', 'Scott Stephenson', 'John Inglis']",5
+489,1,constable,,,WEST MIFFLIN,['Jeremy A. Stillwagon'],1
+490,1,mayor,,,WEST VIEW,['John R. Henry'],1
+491,1,tax collector,,,WEST VIEW,['Rita A. Schwarzmeier'],1
+492,4,member of council,,,WEST VIEW,"['William Aguglia', 'Robert D. Schellhaas', 'Matthew R. Gajtka', 'Bryan S. Kircher', 'Eugene Borio']",5
+493,1,constable,,,WEST VIEW,"['William Crowell, Jr.']",1
+494,1,mayor,,,WHITAKER,['none'],0
+495,1,tax collector,,,WHITAKER,['Patricia A. Pasquantonio'],1
+496,4,member of council,,,WHITAKER,"['Albert E. Race', 'Michael N. Bogesdorfer', 'David Funk', 'Kenneth Seech']",4
+497,1,constable,,,WHITAKER,['Richard Pasquantonio'],1
+498,1,mayor,,,WHITEHALL,"['Jim Nowalk', 'Chris A. Mooney']",2
+499,1,tax collector,,,WHITEHALL,['Kelly Sgattoni'],1
+500,4,member of council,,,WHITEHALL,"['Kathy DePuy', 'Linda J. Book', 'Harold A. Plusa', 'Stone Sobieralski', 'John Paravati', 'William J. Veith']",6
+501,1,constable,,,WHITEHALL,['none'],0
+502,1,mayor,,,WHITE OAK,['Ina Jean Marton'],1
+503,1,tax collector,,,WHITE OAK,['Lisa Pitchford'],1
+504,4,member of council,,,WHITE OAK,"['Kenneth S. Robb', 'George A. Dillinger', 'David J. Pasternak', 'Kenneth A. Obusek', 'Loree Scharritter', 'Julie A. Opferman', 'Jason Russell', 'Joelle M. Harbert']",8
+505,1,constable,,,WHITE OAK,['none'],0
+506,1,tax collector,,,WILKINS,['Michelle Criner'],1
+509,2,constable,,,WILKINS,['none'],0
+510,1,mayor,,,WILKINSBURG,"['Michael A. Johnson', 'Dontae Comans']",2
+511,1,tax collector,,,WILKINSBURG,['Lisa Ciccarelli'],1
+515,1,mayor,,,WILMERDING,['Gregory M. Jakub'],1
+516,1,tax collector,,,WILMERDING,['Frank J. Tylka'],1
+517,3,member of council,,,WILMERDING,"['Kelly B. Maxwell', 'Stephen Volpe', 'Stephen W. Shurgot', 'John A. Thomas']",4
+518,1,constable,,,WILMERDING,['none'],0

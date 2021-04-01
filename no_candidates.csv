@@ -1,119 +1,119 @@
-,number,position,term,ward,district,candidates,candidate_count
-3,2,constable,,,ALEPPO,['none'],0
-7,1,constable,,,ASPINWALL,['none'],0
-9,1,tax collector,,,AVALON,['none'],0
-18,1,tax collector,,,BALDWIN TOWNSHIP,['none'],0
-20,2,constable,,,BALDWIN TOWNSHIP,['none'],0
-33,1,tax collector,,,BEN AVON,['none'],0
-37,1,tax collector,,,BEN AVON HEIGHTS,['none'],0
-39,1,constable,,,BEN AVON HEIGHTS,['none'],0
-44,1,tax collector,,,BLAWNOX,['none'],0
-46,1,constable,,,BLAWNOX,['none'],0
-58,1,constable,,,BRADDOCK HILLS,['none'],0
-59,1,mayor,,,BRADDOCK WOODS,['none'],0
-60,4,member of council,,,BRADDOCK WOODS,['none'],0
-61,1,constable,,,BRADDOCK WOODS,['none'],0
-71,1,tax collector,,,CARNEGIE,['none'],0
-78,1,constable,,,CASTLE SHANNON,['none'],0
-83,1,constable,,,CHALFANT,['none'],0
-96,1,tax collector,,,COLLIER,['none'],0
-104,1,tax collector,,,CRAFTON,['none'],0
-113,1,tax collector,,,DORMONT,['none'],0
-115,1,constable,,,DORMONT,['none'],0
-121,1,controller,,,DUQUESNE,['none'],0
-127,2,constable,,,EAST DEER,['none'],0
-131,1,constable,,,EAST MCKEESPORT,['none'],0
-137,1,tax collector,,,EDGEWOOD,['none'],0
-140,1,constable,,,EDGEWOOD,['none'],0
-144,1,constable,,,EDGEWORTH,['none'],0
-148,1,constable,,,ELIZABETH BOROUGH,['none'],0
-152,1,mayor,,,EMSWORTH,['none'],0
-162,1,auditor,6,,FAWN,['none'],0
-164,1,constable,,,FAWN,['none'],0
-170,1,tax collector,,,FOREST HILLS,['none'],0
-174,1,auditor,6,,FORWARD,['none'],0
-175,1,auditor,4,,FORWARD,['none'],0
-176,1,auditor,2,,FORWARD,['none'],0
-178,1,constable,,,FORWARD,['none'],0
-180,1,tax collector,,,FOX CHAPEL,['none'],0
-190,1,constable,,,FRAZER,['none'],0
-191,1,mayor,,,GLASSPORT,['none'],0
-194,1,constable,,,GLASSPORT,['none'],0
-196,1,tax collector,,,GLEN OSBORNE,['none'],0
-198,1,constable,,,GLEN OSBORNE,['none'],0
-199,1,mayor,,,GLENFIELD,['none'],0
-200,1,tax collector,,,GLENFIELD,['none'],0
-201,1,auditor,6,,GLENFIELD,['none'],0
-202,1,auditor,4,,GLENFIELD,['none'],0
-203,1,auditor,2,,GLENFIELD,['none'],0
-204,4,member of council,,,GLENFIELD,['none'],0
-205,1,constable,,,GLENFIELD,['none'],0
-208,1,constable,,,GREEN TREE,['none'],0
-211,1,constable,,,HAMPTON,['none'],0
-213,1,auditor,6,,HARMAR,['none'],0
-214,1,auditor,4,,HARMAR,['none'],0
-215,1,auditor,2,,HARMAR,['none'],0
-219,2,member of council,"2,4",,HARRISON,['none'],0
-220,2,constable,,,HARRISON,['none'],0
-221,1,mayor,,,HAYSVILLE,['none'],0
-222,1,tax collector,,,HAYSVILLE,['none'],0
-223,4,member of council,4,,HAYSVILLE,['none'],0
-224,1,member of council,2,,HAYSVILLE,['none'],0
-225,1,constable,,,HAYSVILLE,['none'],0
-227,1,tax collector,,,HEIDELBERG,['none'],0
-229,1,constable,,,HEIDELBERG,['none'],0
-237,1,auditor,6,,INDIANA,['none'],0
-238,1,auditor,4,,INDIANA,['none'],0
-239,1,auditor,2,,INDIANA,['none'],0
-243,1,tax collector,,,INGRAM,['none'],0
-245,1,constable,,,INGRAM,['none'],0
-254,1,tax collector,,,KILBUCK,['none'],0
-255,1,auditor,,,KILBUCK,['none'],0
-257,1,constable,,,KILBUCK,['none'],0
-260,2,constable,,,LEET,['none'],0
-312,1,tax collector,,,NEVILLE,['none'],0
-322,1,auditor,,,NORTH FAYETTE,['none'],0
-328,1,mayor,,,OAKDALE,['none'],0
-333,1,tax collector,,,OAKMONT,['none'],0
-335,1,constable,,,OAKMONT,['none'],0
-336,1,treasurer,,,OHARA,['none'],0
-337,1,auditor,,,OHARA,['none'],0
-342,1,constable,,,OHIO,['none'],0
-349,1,constable,,,PENNSBURY VILLAGE,['none'],0
-351,1,constable,,,PINE,['none'],0
-374,1,tax collector,,,RESERVE,['none'],0
-378,1,constable,,,RICHLAND,['none'],0
-386,1,tax collector,,,ROSSLYN FARMS,['none'],0
-400,1,tax collector,,,SEWICKLEY HEIGHTS,['none'],0
-402,1,constable,,,SEWICKLEY HEIGHTS,['none'],0
-403,1,mayor,,,SEWICKLEY HILLS,['none'],0
-405,3,member of council,,,SEWICKLEY HILLS,['none'],0
-406,1,constable,,,SEWICKLEY HILLS,['none'],0
-414,1,constable,,,SHARPSBURG,['none'],0
-419,1,auditor,,,SOUTH PARK,['none'],0
-423,3,commissioner,,,SOUTH VERSAILLES,['none'],0
-424,2,constable,,,SOUTH VERSAILLES,['none'],0
-425,1,mayor,,,SPRINGDALE BOROUGH,['none'],0
-428,1,constable,,,SPRINGDALE BOROUGH,['none'],0
-431,2,constable,,,SPRINGDALE TOWNSHIP,['none'],0
-432,1,tax collector,,,STOWE,['none'],0
-445,1,tax collector,,,THORNBURG,['none'],0
-447,1,constable,,,THORNBURG,['none'],0
-455,2,constable,,,UPPER ST CLAIR,['none'],0
-457,1,tax collector,,,VERONA,['none'],0
-459,1,constable,,,VERONA,['none'],0
-464,1,constable,,,VERSAILLES,['none'],0
-465,1,mayor,,,WALL,['none'],0
-466,1,tax collector,,,WALL,['none'],0
-467,3,member of council,,,WALL,['none'],0
-470,1,auditor,6,,WEST DEER,['none'],0
-471,1,auditor,4,,WEST DEER,['none'],0
-472,1,auditor,2,,WEST DEER,['none'],0
-478,1,auditor,,,WEST ELIZABETH,['none'],0
-480,1,constable,,,WEST ELIZABETH,['none'],0
-485,1,constable,,,WEST HOMESTEAD,['none'],0
-494,1,mayor,,,WHITAKER,['none'],0
-501,1,constable,,,WHITEHALL,['none'],0
-505,1,constable,,,WHITE OAK,['none'],0
-509,2,constable,,,WILKINS,['none'],0
-518,1,constable,,,WILMERDING,['none'],0
+,number,position,term,ward,district,candidates,candidate_count,party
+3,2,constable,,,ALEPPO,['none'],0,['N/A']
+7,1,constable,,,ASPINWALL,['none'],0,['N/A']
+9,1,tax collector,,,AVALON,['none'],0,['N/A']
+18,1,tax collector,,,BALDWIN TOWNSHIP,['none'],0,['N/A']
+20,2,constable,,,BALDWIN TOWNSHIP,['none'],0,['N/A']
+33,1,tax collector,,,BEN AVON,['none'],0,['N/A']
+37,1,tax collector,,,BEN AVON HEIGHTS,['none'],0,['N/A']
+39,1,constable,,,BEN AVON HEIGHTS,['none'],0,['N/A']
+44,1,tax collector,,,BLAWNOX,['none'],0,['N/A']
+46,1,constable,,,BLAWNOX,['none'],0,['N/A']
+58,1,constable,,,BRADDOCK HILLS,['none'],0,['N/A']
+59,1,mayor,,,BRADDOCK WOODS,['none'],0,['N/A']
+60,4,member of council,,,BRADDOCK WOODS,['none'],0,['N/A']
+61,1,constable,,,BRADDOCK WOODS,['none'],0,['N/A']
+71,1,tax collector,,,CARNEGIE,['none'],0,['N/A']
+78,1,constable,,,CASTLE SHANNON,['none'],0,['N/A']
+83,1,constable,,,CHALFANT,['none'],0,['N/A']
+96,1,tax collector,,,COLLIER,['none'],0,['N/A']
+104,1,tax collector,,,CRAFTON,['none'],0,['N/A']
+113,1,tax collector,,,DORMONT,['none'],0,['N/A']
+115,1,constable,,,DORMONT,['none'],0,['N/A']
+121,1,controller,,,DUQUESNE,['none'],0,['N/A']
+127,2,constable,,,EAST DEER,['none'],0,['N/A']
+131,1,constable,,,EAST MCKEESPORT,['none'],0,['N/A']
+137,1,tax collector,,,EDGEWOOD,['none'],0,['N/A']
+140,1,constable,,,EDGEWOOD,['none'],0,['N/A']
+144,1,constable,,,EDGEWORTH,['none'],0,['N/A']
+148,1,constable,,,ELIZABETH BOROUGH,['none'],0,['N/A']
+152,1,mayor,,,EMSWORTH,['none'],0,['N/A']
+162,1,auditor,6,,FAWN,['none'],0,['N/A']
+164,1,constable,,,FAWN,['none'],0,['N/A']
+170,1,tax collector,,,FOREST HILLS,['none'],0,['N/A']
+174,1,auditor,6,,FORWARD,['none'],0,['N/A']
+175,1,auditor,4,,FORWARD,['none'],0,['N/A']
+176,1,auditor,2,,FORWARD,['none'],0,['N/A']
+178,1,constable,,,FORWARD,['none'],0,['N/A']
+180,1,tax collector,,,FOX CHAPEL,['none'],0,['N/A']
+190,1,constable,,,FRAZER,['none'],0,['N/A']
+191,1,mayor,,,GLASSPORT,['none'],0,['N/A']
+194,1,constable,,,GLASSPORT,['none'],0,['N/A']
+196,1,tax collector,,,GLEN OSBORNE,['none'],0,['N/A']
+198,1,constable,,,GLEN OSBORNE,['none'],0,['N/A']
+199,1,mayor,,,GLENFIELD,['none'],0,['N/A']
+200,1,tax collector,,,GLENFIELD,['none'],0,['N/A']
+201,1,auditor,6,,GLENFIELD,['none'],0,['N/A']
+202,1,auditor,4,,GLENFIELD,['none'],0,['N/A']
+203,1,auditor,2,,GLENFIELD,['none'],0,['N/A']
+204,4,member of council,,,GLENFIELD,['none'],0,['N/A']
+205,1,constable,,,GLENFIELD,['none'],0,['N/A']
+208,1,constable,,,GREEN TREE,['none'],0,['N/A']
+211,1,constable,,,HAMPTON,['none'],0,['N/A']
+213,1,auditor,6,,HARMAR,['none'],0,['N/A']
+214,1,auditor,4,,HARMAR,['none'],0,['N/A']
+215,1,auditor,2,,HARMAR,['none'],0,['N/A']
+219,2,member of council,"2,4",,HARRISON,['none'],0,['N/A']
+220,2,constable,,,HARRISON,['none'],0,['N/A']
+221,1,mayor,,,HAYSVILLE,['none'],0,['N/A']
+222,1,tax collector,,,HAYSVILLE,['none'],0,['N/A']
+223,4,member of council,4,,HAYSVILLE,['none'],0,['N/A']
+224,1,member of council,2,,HAYSVILLE,['none'],0,['N/A']
+225,1,constable,,,HAYSVILLE,['none'],0,['N/A']
+227,1,tax collector,,,HEIDELBERG,['none'],0,['N/A']
+229,1,constable,,,HEIDELBERG,['none'],0,['N/A']
+237,1,auditor,6,,INDIANA,['none'],0,['N/A']
+238,1,auditor,4,,INDIANA,['none'],0,['N/A']
+239,1,auditor,2,,INDIANA,['none'],0,['N/A']
+243,1,tax collector,,,INGRAM,['none'],0,['N/A']
+245,1,constable,,,INGRAM,['none'],0,['N/A']
+254,1,tax collector,,,KILBUCK,['none'],0,['N/A']
+255,1,auditor,,,KILBUCK,['none'],0,['N/A']
+257,1,constable,,,KILBUCK,['none'],0,['N/A']
+260,2,constable,,,LEET,['none'],0,['N/A']
+312,1,tax collector,,,NEVILLE,['none'],0,['N/A']
+322,1,auditor,,,NORTH FAYETTE,['none'],0,['N/A']
+328,1,mayor,,,OAKDALE,['none'],0,['N/A']
+333,1,tax collector,,,OAKMONT,['none'],0,['N/A']
+335,1,constable,,,OAKMONT,['none'],0,['N/A']
+336,1,treasurer,,,OHARA,['none'],0,['N/A']
+337,1,auditor,,,OHARA,['none'],0,['N/A']
+342,1,constable,,,OHIO,['none'],0,['N/A']
+349,1,constable,,,PENNSBURY VILLAGE,['none'],0,['N/A']
+351,1,constable,,,PINE,['none'],0,['N/A']
+374,1,tax collector,,,RESERVE,['none'],0,['N/A']
+378,1,constable,,,RICHLAND,['none'],0,['N/A']
+386,1,tax collector,,,ROSSLYN FARMS,['none'],0,['N/A']
+400,1,tax collector,,,SEWICKLEY HEIGHTS,['none'],0,['N/A']
+402,1,constable,,,SEWICKLEY HEIGHTS,['none'],0,['N/A']
+403,1,mayor,,,SEWICKLEY HILLS,['none'],0,['N/A']
+405,3,member of council,,,SEWICKLEY HILLS,['none'],0,['N/A']
+406,1,constable,,,SEWICKLEY HILLS,['none'],0,['N/A']
+414,1,constable,,,SHARPSBURG,['none'],0,['N/A']
+419,1,auditor,,,SOUTH PARK,['none'],0,['N/A']
+423,3,commissioner,,,SOUTH VERSAILLES,['none'],0,['N/A']
+424,2,constable,,,SOUTH VERSAILLES,['none'],0,['N/A']
+425,1,mayor,,,SPRINGDALE BOROUGH,['none'],0,['N/A']
+428,1,constable,,,SPRINGDALE BOROUGH,['none'],0,['N/A']
+431,2,constable,,,SPRINGDALE TOWNSHIP,['none'],0,['N/A']
+432,1,tax collector,,,STOWE,['none'],0,['N/A']
+445,1,tax collector,,,THORNBURG,['none'],0,['N/A']
+447,1,constable,,,THORNBURG,['none'],0,['N/A']
+455,2,constable,,,UPPER ST CLAIR,['none'],0,['N/A']
+457,1,tax collector,,,VERONA,['none'],0,['N/A']
+459,1,constable,,,VERONA,['none'],0,['N/A']
+464,1,constable,,,VERSAILLES,['none'],0,['N/A']
+465,1,mayor,,,WALL,['none'],0,['N/A']
+466,1,tax collector,,,WALL,['none'],0,['N/A']
+467,3,member of council,,,WALL,['none'],0,['N/A']
+470,1,auditor,6,,WEST DEER,['none'],0,['N/A']
+471,1,auditor,4,,WEST DEER,['none'],0,['N/A']
+472,1,auditor,2,,WEST DEER,['none'],0,['N/A']
+478,1,auditor,,,WEST ELIZABETH,['none'],0,['N/A']
+480,1,constable,,,WEST ELIZABETH,['none'],0,['N/A']
+485,1,constable,,,WEST HOMESTEAD,['none'],0,['N/A']
+494,1,mayor,,,WHITAKER,['none'],0,['N/A']
+501,1,constable,,,WHITEHALL,['none'],0,['N/A']
+505,1,constable,,,WHITE OAK,['none'],0,['N/A']
+509,2,constable,,,WILKINS,['none'],0,['N/A']
+518,1,constable,,,WILMERDING,['none'],0,['N/A']

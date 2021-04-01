@@ -1,20 +1,20 @@
-,number,position,term,ward,district,candidates,candidate_count
-38,3,member of council,,,BEN AVON HEIGHTS,['Joseph M. Dawley'],1
-57,4,member of council,,,BRADDOCK HILLS,"['Anette Nance', 'Marguerite L. Bolton', 'Cassandra Schaffer']",3
-86,4,member of council,,,CHESWICK,"['Frank Meledandri Jr.', 'Kathleen M. Gillard']",2
-98,2,constable,,,COLLIER,['Daniel A. Styche'],1
-111,2,constable,,,CRESCENT,['Daniel Perciavalle'],1
-114,4,member of council,,,DORMONT,"['Jennifer Mazzocco', 'Alvaro A. Varela, III', 'Ilene Leventhal Dubin']",3
-147,4,member of council,,,ELIZABETH BOROUGH,"['Chad Rager', 'Dana Cress']",2
-151,2,constable,,,ELIZABETH TOWNSHIP,['Gary Corey'],1
-154,4,member of council,,,EMSWORTH,"['Kevin Yurkovich', 'Daniel Lenz']",2
-197,4,member of council,,,GLEN OSBORNE,"['John Orndorff', 'Mary Scalerico']",2
-253,2,constable,,,KENNEDY,"['John Buckley, III']",1
-278,2,constable,,,MCCANDLESS,['Nathan Wolfe'],1
-303,2,constable,,,MOUNT LEBANON,['Dimitro C. Kulik'],1
-315,2,constable,,,NEVILLE,['James K. Claytor'],1
-327,2,constable,,,NORTH VERSAILLES,"['Thomas R. Leicht, Jr.']",1
-339,2,constable,,,OHARA,['Francis Peitz'],1
-381,2,constable,,,ROBINSON,['Craig M. Cannella'],1
-434,2,constable,,,STOWE,"['Patrick S. Jennings, Sr.']",1
-479,4,member of council,,,WEST ELIZABETH,"['Lisa Morris', 'Louise M. Biddle', 'Raymond P. Dodds, Jr.']",3
+,number,position,term,ward,district,candidates,candidate_count,party
+38,3,member of council,,,BEN AVON HEIGHTS,['Joseph M. Dawley'],1,['Democratic']
+57,4,member of council,,,BRADDOCK HILLS,"['Anette Nance', 'Marguerite L. Bolton', 'Cassandra Schaffer']",3,"['Democratic', 'Democratic', 'Democratic']"
+86,4,member of council,,,CHESWICK,"['Frank Meledandri Jr.', 'Kathleen M. Gillard']",2,"['Republican', 'Republican']"
+98,2,constable,,,COLLIER,['Daniel A. Styche'],1,['Democratic']
+111,2,constable,,,CRESCENT,['Daniel Perciavalle'],1,['Democratic']
+114,4,member of council,,,DORMONT,"['Jennifer Mazzocco', 'Alvaro A. Varela, III', 'Ilene Leventhal Dubin']",3,"['Democratic', 'Democratic', 'Democratic']"
+147,4,member of council,,,ELIZABETH BOROUGH,"['Chad Rager', 'Dana Cress']",2,"['Democratic', 'Democratic']"
+151,2,constable,,,ELIZABETH TOWNSHIP,['Gary Corey'],1,['Republican']
+154,4,member of council,,,EMSWORTH,"['Kevin Yurkovich', 'Daniel Lenz']",2,"['Democratic', 'Democratic']"
+197,4,member of council,,,GLEN OSBORNE,"['John Orndorff', 'Mary Scalerico']",2,"['Democratic', 'Democratic']"
+253,2,constable,,,KENNEDY,"['John Buckley, III']",1,['Democratic']
+278,2,constable,,,MCCANDLESS,['Nathan Wolfe'],1,['Republican']
+303,2,constable,,,MOUNT LEBANON,['Dimitro C. Kulik'],1,['Republican']
+315,2,constable,,,NEVILLE,['James K. Claytor'],1,['Democratic']
+327,2,constable,,,NORTH VERSAILLES,"['Thomas R. Leicht, Jr.']",1,['Democratic']
+339,2,constable,,,OHARA,['Francis Peitz'],1,['Democratic']
+381,2,constable,,,ROBINSON,['Craig M. Cannella'],1,['Democratic']
+434,2,constable,,,STOWE,"['Patrick S. Jennings, Sr.']",1,['Democratic']
+479,4,member of council,,,WEST ELIZABETH,"['Lisa Morris', 'Louise M. Biddle', 'Raymond P. Dodds, Jr.']",3,"['Democratic', 'Democratic', 'Democratic']"
