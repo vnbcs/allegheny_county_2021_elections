@@ -8,7 +8,7 @@ finished-ish csvs:
 + candidate_list.csv:
   + a cleaned version of the unofficial declared candidate list available on allegheny county's website [here](https://www.alleghenycounty.us/elections/candidates.aspx)
 + all_muni_positions.csv
-  + all municipal positions with candidates matched. only candidate names are included; party information can be found in candidate_list.csv.
+  + all municipal positions with candidates matched. includes candidate name and party.
 + no_candidates.csv
   + exactly what it sounds like; a subset of all_muni_positions including only the positions with no declared democrat or republican candidates. 
 + unopposed_candidates.csv
